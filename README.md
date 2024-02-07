@@ -1,6 +1,6 @@
 **Harjoitustyö - lämpötilahaku**
 
-Tämä on kahden seuraavan päivän lämpötilatiedon hakeva svelte-pohjainen sovellus. se käyttää ilmatieteen laitoksen julkista dataa tämän tiedon ilmaisemiseen
+Tämä on kahden seuraavan päivän lämpötilatiedon hakeva svelte-pohjainen sovellus. se käyttää ilmatieteen laitoksen julkista dataa tämän tiedon ilmaisemiseen. Päivitys: Sovellus on vanhentunut ilmatieteen laitoksen datamuutosten takia
 
 ---
 
